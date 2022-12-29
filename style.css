@@ -31,3 +31,33 @@ body {
 .login-btn {
     padding-right: 100px;
 }
+
+.val-btn {
+    width: 62.56px;
+    height: 28px;
+}
+.convert-online{
+    display: flex;
+    justify-content: center;
+}
+
+.btn-valyuts{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    
+
+}
+.btn-valyuts button{
+    border:grey solid 0.1px;
+    background-color: white;
+    color: black;
+    opacity: 0.3;
+
+}
+.input-left .input-right{
+    width: 259px;
+    height: 102px;
+}
